@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<p><strong>Let every interaction be driven by understanding.</strong> · Enterprise-Grade Intelligent Memory System</p>
+<p><strong>Let every interaction be driven by understanding </strong> · Enterprise-Grade Intelligent Memory System</p>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-0084FF?style=flat-square&logo=python&logoColor=white" />
